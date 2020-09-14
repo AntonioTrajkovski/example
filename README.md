@@ -1,6 +1,6 @@
 
 add some text
-
+new text added
 <table>
 <thead>
   <tr>
